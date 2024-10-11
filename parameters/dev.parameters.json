@@ -22,27 +22,6 @@
         },
         "location": {
             "value": "North Europe"
-        },
-        "appServiceAPIEnvVarENV": {
-            "value": "development"
-          },
-          "appServiceAPIEnvVarDBHOST": {
-            "value": "ashats-dbsrv-dev.postgres.database.azure.com"
-          },
-          "appServiceAPIEnvVarDBNAME": {
-            "value": "ashats-db-dev"
-          },
-          "appServiceAPIEnvVarDBPASS": {
-            "value": "<secure-password>"
-          },
-          "appServiceAPIDBHostDBUSER": {
-            "value": "iebankdbadmin"
-          },
-          "appServiceAPIDBHostFLASK_APP": {
-            "value": "app.py"
-          },
-          "appServiceAPIDBHostFLASK_DEBUG": {
-            "value": "1"
-          }
         }
       }
+    }
