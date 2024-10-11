@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "ashats-dbsrv-dev"
+            "value": "ashats-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "ashats-db-dev"
+            "value": "ashats-db-uat"
         },
         "appServicePlanName": {
-            "value": "ashats-asp-dev"
+            "value": "ashats-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "ashats-be-dev"
+            "value": "ashats-be-uat"
         },
         "appServiceAppName": {
-            "value": "ashats-fe-dev"
+            "value": "ashats-fe-uat"
         },
         "location": {
             "value": "North Europe"
